@@ -6,10 +6,8 @@
     <title>House listings</title>
     
     <!--css-->
-
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/bootstrap-grid.min.css" />
     
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css">    
 
 <body>
     <h1>House listings</h1>
