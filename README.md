@@ -26,10 +26,10 @@ To launch this, you'll have to clone my Github files to your PHP server, change 
 
 Below are a series of videos, in reverse chronological order, where I'm learning about PHP/mySQL.  I attempt to explain what's happening from a coding perspective.
 
-[Quiz 12.1](https://loom.com/insert-your-loom-url-here)
+[Quiz 12.1](https://www.loom.com/share/07839463aceb478981c71e437a6f3774)
 Integrated a weather widget, created my own JSON API, and included reCAPTCHA v.3
 
-[Quiz 11.4](https://loom.com/insert-your-loom-url-here)
+[Quiz 11.4](https://www.loom.com/share/4ae1db4db7374b14a87772a50cbc0ad9)
 Implemented a title search and a sort by table column
 
 [Quiz 10.4](https://www.loom.com/share/3e5f267f11324b769aae061b4cf7a6bd)
