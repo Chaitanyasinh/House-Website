@@ -1,10 +1,10 @@
-# House-Website
+# Movies-Website
 # Arcade Website
 
 
 ## Purpose
 
-> A PHP/mySQL website that tracks houses info via CRUD, search/sort, and users via register/login.
+> A PHP/mySQL website that tracks movies info via CRUD, search/sort, and users via register/login.
 
 ![Image of my project](images/menu.jpg)
 
