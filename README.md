@@ -4,8 +4,6 @@
 
 > A PHP/mySQL website that tracks movies info via CRUD, search/sort, and users via register/login.
 
-![Image of my project](images/menu.jpg)
-
 This website was developed in my COMP1006 Intro to Web Programming  course at Georgian College.  I was asked to create a website based on my interests, so I chose classic houses.  This website implements CRUD functionalities, register/login pages, securing pages via authentication, search and sort features and APIs.
 
 ## Technologies Learned
@@ -16,7 +14,7 @@ This website was developed in my COMP1006 Intro to Web Programming  course at Ge
 - JavaScript
 
 ## Launch
-- Visit [visit a websie](http://15.222.122.223/~Chaitanyasinh200447336/week11/movie.php) and feel free to register/login to play around
+- [visit a websie](http://15.222.122.223/~Chaitanyasinh200447336/week11/movie.php) and feel free to register/login to play around
 
 To launch this, you'll have to clone my Github files to your PHP server, change the credentials listed in db.php, and run my .sql scripts in your mysql database.  
 
