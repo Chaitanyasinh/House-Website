@@ -1,6 +1,4 @@
 # Movies-Website
-# Arcade Website
-
 
 ## Purpose
 
@@ -18,7 +16,7 @@ This website was developed in my COMP1006 Intro to Web Programming  course at Ge
 - JavaScript
 
 ## Launch
-- Visit [my project's website](http://15.222.122.223/~Chaitanyasinh200447336/week11/movie.php) and feel free to register/login to play around
+- Visit [visit a websie](http://15.222.122.223/~Chaitanyasinh200447336/week11/movie.php) and feel free to register/login to play around
 
 To launch this, you'll have to clone my Github files to your PHP server, change the credentials listed in db.php, and run my .sql scripts in your mysql database.  
 
